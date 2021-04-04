@@ -11,11 +11,24 @@ In order to understand different components of the project, several visualizatio
 - The length of time that bikes are checked out for all riders and genders
 - The number of bike trips for each hour of each day of the week
 - The number of bike trips for each type of user and gender 
-- The peak hours for the month of August 
+- The peak hours for the month of August 2019
 - The average trip duration 
 
 ### Checkout Times for Users 
 
 The data on the graph below indicates the checkout times for users for August 2019, during which bikes were more likely to be rented for a period ranging from 2 to 15 minutes.
 
-![image](https://user-images.githubusercontent.com/75655852/113498850-b7aab280-94de-11eb-9090-8a1a0a48e802.png)
+
+### Checkout Times for Users by Gender 
+
+*The checkout times by gender* was illustrated by graphing the trip duration by hour and the gender of the riders. As shown below, Male riders constituted a majority of bike riders and their checkout time period is estimated between 2 and 12 minutes. On the other hand, Female riders chekout time is between 2 and 16 minutes while the unknown category of riders biked on average for 12 minutes. 
+
+
+### Trips per Weekday Per Hour
+
+The following graph shows that the busiest hours for bike trips are 8 am, 5 pm and 6 pm. Relatively, the busiest days are Saturdays and Thursday between 5 pm to 7 pm.
+
+
+*The Weekday Per Hour Trips by Gender* show that the most active hours for male and female riders remain between the range of 5 pm to 6 pm. Male riders are also more likely to rent bikes than female riders. 
+
+
