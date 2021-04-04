@@ -62,3 +62,7 @@ As seen in the analysis, male riders and subscribers constitute the majority of 
 - Graphing an itinerary of the most frequently used routes and elaborate the differences, if any, between male, female and unknown riders.
 - Graphing the age demographic of male, female and unknown riders, wile taking into consideration if they belong to the customers and subscribers categories.
 - Mapping the frequency, popularity and length of longer and shorter routes taken by the riders.
+
+The link to the dashboard can be found below:
+
+[link to dashboard](https://public.tableau.com/profile/aryana.akhavan#!/vizhome/Module14Challenge_16175265775410/DemographicStory?publish=yes)
