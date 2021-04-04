@@ -29,7 +29,7 @@ The data on the graph below indicates the checkout times for users for August 20
 
 ### Trips per Weekday Per Hour
 
-The following graph shows that the busiest hours for bike trips are 8 am, 5 pm and 6 pm. Relatively, the busiest days are Saturdays and Thursdays between 5 pm to 7 pm.
+The following graph shows that the busiest hours for bike trips are 8 am, 5 pm and 6 pm. Relatively, the busiest days are Saturday afternoons and Thursdays between 5 pm to 7 pm.
 
 ![image](https://user-images.githubusercontent.com/75655852/113499443-13c40580-94e4-11eb-8513-43b9c10e6f34.png)
 
