@@ -23,23 +23,23 @@ The data on the graph below indicates the checkout times for users for August 20
 
 ### Checkout Times for Users by Gender 
 
-*The checkout times by gender* was illustrated by graphing the trip duration by hour and the gender of the riders. As shown below, Male riders constituted a majority of bike riders and their checkout time period is estimated between 2 and 12 minutes. On the other hand, Female riders chekout time is between 2 and 16 minutes while the unknown category of riders biked on average for 12 minutes. 
+*The checkout times by gender* was illustrated by graphing the trip duration by hour and by the gender of the riders. As shown below, male riders constituted a majority of bike riders and their checkout time period was estimated to be between 2 and 12 minutes. On the other hand, female riders checkout time was between 2 and 16 minutes while the unknown category of riders biked on average for 12 minutes. 
 
 ![image](https://user-images.githubusercontent.com/75655852/113499458-276f6c00-94e4-11eb-9fbb-ea1e6b99a7da.png)
 
 ### Trips per Weekday Per Hour
 
-The following graph shows that the busiest hours for bike trips are 8 am, 5 pm and 6 pm. Relatively, the busiest days are Saturdays and Thursday between 5 pm to 7 pm.
+The following graph shows that the busiest hours for bike trips are 8 am, 5 pm and 6 pm. Relatively, the busiest days are Saturdays and Thursdays between 5 pm to 7 pm.
 
 ![image](https://user-images.githubusercontent.com/75655852/113499443-13c40580-94e4-11eb-8513-43b9c10e6f34.png)
 
-*The Weekday Per Hour Trips by Gender* shows that the most active hours for male and female riders remain between the range of 5 pm to 6 pm. Male riders are also more likely to rent bikes than female riders.
+*The Weekday Per Hour Trips by Gender* shows that the most active hours for male and female riders remain between the range of 5 pm to 7 pm. Male riders are also more likely to rent bikes than female riders.
 
 ![image](https://user-images.githubusercontent.com/75655852/113499438-03ac2600-94e4-11eb-8e90-8171b5d7f74d.png)
 
 ## User Trips by Gender by Weekday
 
-The graph below illustrates the Usertype by gender and by weekday. The two types of Users are Subscribers, which refers to annual Subscribers of the bike-sharing service, and Customers who are the short-term riders. As shown below, subscribers represent the majority of riders for both the Male and Female categories, while there are more male than female riders.
+The graph below illustrates the usertype by gender and by weekday. The two types of users are Subscribers, which refers to annual Subscribers of the bike-sharing service, and Customers who are the short-term riders. As shown below, Subscribers represent the majority of riders for both the male and female categories, while there are more male than female riders.
 
 ![image](https://user-images.githubusercontent.com/75655852/113499533-b2506680-94e4-11eb-8422-4512815b80c5.png)
 
@@ -57,7 +57,7 @@ The following chart is an area chart which best represents the data for the Aver
 
 ## Summary
 
-As seen in the analysis, male riders and subscribers constitute the majority of riders. In addition to the information provided above, a few additional visualizations could be considered in order to add further develop the project's data visualization component:
+As seen in the analysis, male riders and Subscribers constitute the majority of riders. In addition to the information provided above, a few additional visualizations could be considered in order to further develop the project's data visualization component:
 
 - Graphing an itinerary of the most frequently used routes and elaborate the differences, if any, between male, female and unknown riders.
 - Graphing the age demographic of male, female and unknown riders, wile taking into consideration if they belong to the customers and subscribers categories.
