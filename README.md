@@ -57,7 +57,7 @@ The following chart is an area chart which best represents the data for the Aver
 
 ## Summary
 
-As seen in the analysis, male riders and subscribers constitute the majority of riders. In addition to the information provided above, a few additional visualizations could be considered in order to add further data visualization to the project: 
+As seen in the analysis, male riders and subscribers constitute the majority of riders. In addition to the information provided above, a few additional visualizations could be considered in order to add further develop the project's data visualization component:
 
 - Graphing an itinerary of the most frequently used routes and elaborate the differences, if any, between male, female and unknown riders.
 - Graphing the age demographic of male, female and unknown riders, wile taking into consideration if they belong to the customers and subscribers categories.
